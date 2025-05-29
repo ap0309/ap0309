@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello World, I'm Ayush Patel!
 
-<!--
-**ap0309/ap0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pre-final Year B.Tech. Computer Science student at [Nirma University](https://nirmauni.ac.in)  
+🚀 Aspiring Backend Developer | 💡 Competitive Programmer | 🌍 Tech Enthusiast from Gujarat, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔍 Exploring Backend Development with Node.js, Express, and databases like MongoDB & MySQL
+- 💻 Passionate about building scalable systems and solving real-world problems through code
+- 🏆 Competitive Programming enthusiast — consistently active on LeetCode, Codeforces, and CodeChef
+- 🧑‍🏫 Vice President @ Computer Society of India, Nirma University
+- 📚 Current CGPA: `8.34/10` | SGPA (5th Sem): `8.83/10`
+
+---
