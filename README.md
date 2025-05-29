@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Ayush Patel!
+# 👋 Hello World, I'm Ayush Patel !
 
 🎓 Final Year B.Tech. Computer Science student at [Nirma University](https://nirmauni.ac.in)  
 💡 Competitive Programmer | 🚀 Aspiring Backend Developer | 🌍 Tech Enthusiast from Gujarat, India
