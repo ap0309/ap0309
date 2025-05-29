@@ -14,7 +14,7 @@
 - 💻 Passionate about building scalable systems and solving real-world problems through code  
 - 🧑‍🏫 Vice President @ Computer Society of India, Nirma University  
 - 🏆 Competitive Programmer — active on LeetCode, Codeforces, and CodeChef  
-Whether it’s developing a complex system from scratch or strategizing for a hackathon win, I’m motivated by challenges that push me to grow and bring ideas to life. Let’s build the future, one line of code at a time.
+
 ---
 
 ## ⚔️ Competitive Programming
