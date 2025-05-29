@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Ayush Patel!
 
-🎓 Pre-final Year B.Tech. Computer Science student at [Nirma University](https://nirmauni.ac.in)  
-🚀 Aspiring Backend Developer | 💡 Competitive Programmer | 🌍 Tech Enthusiast from Gujarat, India
+🎓 Final Year B.Tech. Computer Science student at [Nirma University](https://nirmauni.ac.in)  
+💡 Competitive Programmer | 🚀 Aspiring Backend Developer | 🌍 Tech Enthusiast from Gujarat, India
 
 ---
 
@@ -15,11 +15,15 @@
 
 ---
 
-
 ## 📊 Competitive Programming
 
 - 🟢 **LeetCode:** 1776 rating — [Profile](https://leetcode.com/AyushPatel_03/) *(Top 10%)*
 - 🔵 **Codeforces:** Pupil — [Profile](https://codeforces.com/profile/AyushPatel_03) *(Rating: 1311)*
 - 🟠 **CodeChef:** 3★ — [Profile](https://www.codechef.com/users/ap090703)
 - 🏅 Global Rank `227` in CodeChef Starters 139  
-- 🧠 Ranked `1918` out of 35k+ in LeetCode
+- 🧠 Ranked `1918` out of 35k+ in LeetCode Contest 424
+
+## 📈 GitHub Stats
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ap0309&show_icons=true&theme=tokyonight&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ap0309&layout=compact&theme=tokyonight)
