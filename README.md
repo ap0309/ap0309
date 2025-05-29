@@ -7,7 +7,7 @@
 </p>
 
 
-## 🧠 About Me
+## About Me
 
 - 🎓 Final Year B.Tech CSE student @ [Nirma University](https://nirmauni.ac.in)  
 - 🔍 Exploring Backend Development with Node.js, Express, and databases like MongoDB & MySQL  
