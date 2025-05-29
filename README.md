@@ -9,7 +9,7 @@
 
 ## About Me
 
-- 🎓 Final Year B.Tech CSE student @ [Nirma University](https://nirmauni.ac.in)  
+- 🎓 B.Tech CSE 26' student @ [Nirma University](https://nirmauni.ac.in)  
 - 🔍 Exploring Backend Development with Node.js, Express, and databases like MongoDB & MySQL  
 - 💻 Passionate about building scalable systems and solving real-world problems through code  
 - 🧑‍🏫 Vice President @ Computer Society of India, Nirma University  
