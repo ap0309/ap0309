@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello World, I'm <a href="https://www.linkedin.com/in/ayushpatel030904/" target="blank">Ayush Patel</a> !</h1>
-<h3 align="center">💡 Competitive Programmer | 🚀 Aspiring Backend Developer | 🌍 Tech Enthusiast from Gujarat, India</h3>
+<h3 align="center"> 🧩 Competitive Programmer | Aspiring Backend Developer | Tech Enthusiast from Gujarat, India</h3>
 
 ---
 <p align="center">
